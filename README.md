@@ -2,7 +2,7 @@
 - 👀 I’m interested in ur mom
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with you😉
-- 📫 How to reach me  : prajo404@gmail.com
+- 📫 How to reach me  : prajop404@gmail.com
 
 <!---
 prajop404/prajop404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
